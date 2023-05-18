@@ -11,7 +11,7 @@ import Thanks from "./components/Thanks";
 import React, { useEffect, useState } from "react";
 
 export const config = {
-  endpoint: `https://qkart-frontend-ak95.herokuapp.com/api/v1`,
+  endpoint: `https://qkart-frontend-w7xm.onrender.com/api/v1`,
 };
 
 function App() {
